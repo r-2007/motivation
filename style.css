@@ -1,0 +1,23 @@
+#first {
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+}
+
+#myImg {
+    border: 5px solid white;
+    width: 100%;
+}
+
+#myFont {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#myP {
+    text-align: center;
+    font-size: larger;
+}
